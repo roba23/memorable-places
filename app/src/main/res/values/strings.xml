@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memorable Places</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps_api_key">AIzaSyAyHYPRw3FnTX8hXqDY8yHuvhn1YEl0suE</string>
+</resources>
